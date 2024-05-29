@@ -1,0 +1,11 @@
+.footer-bottom-main{
+    color: white;
+    background-color: rgb(38, 38, 38);
+    padding: 20px 0px;
+    width: 100vw;
+}
+.footer-bottom-layout{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

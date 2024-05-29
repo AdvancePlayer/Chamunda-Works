@@ -1,0 +1,46 @@
+.checkout-delivey-details{
+  width: 60vw;
+  margin: 0px auto;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.checkout-delivey-details h3{
+  font-size: 2em;
+}
+.checkout-delivey-details label{
+  font-weight: 500;
+}
+.checkout-delivey-details input{
+  width: 100%;
+  padding: 1em;
+  border: 0.1px solid rgb(197, 197, 197);
+  border-radius: 10px;
+}
+.checkout-delivey-details button{
+  margin: 0px auto;
+  margin-top: 2%;
+  outline: 0;
+  border: 0;
+  border-radius: 10px;
+  height: 50px;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1em;
+  color: white;
+  background-color: rgb(0, 0, 0);
+  flex-grow: unset;
+}
+.checkout-delivey-details button:hover{
+  background-color: #2e2e2e;
+}
+.checkout-payment{
+  display: none;
+}
+.checkout-summary{
+  display: none;
+}

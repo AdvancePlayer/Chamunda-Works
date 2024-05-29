@@ -1,0 +1,24 @@
+.layout-category{
+    margin: 20px auto;
+    width: 80vw;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+.product-list{
+    margin-bottom: 30px;
+}
+.feching_data_loading{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    font-size: 2em;
+    color: rgb(76, 76, 76);
+    margin-bottom: 25vh;
+    margin-top: 25vh;
+    position: relative;
+}
+
+

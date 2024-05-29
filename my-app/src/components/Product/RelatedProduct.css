@@ -1,0 +1,9 @@
+.rel-prod{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.rel-title{
+    text-align: center;
+    margin: 50px;
+}
